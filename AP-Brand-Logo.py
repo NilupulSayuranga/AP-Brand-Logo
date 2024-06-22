@@ -1,4 +1,5 @@
-#Recreated : Nilupul Sayuranga
+#Design Coopyright by Anuradha Perera
+#Recreated & Coded by Nilupul Sayuranga
 
 from turtle import *
 
