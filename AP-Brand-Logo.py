@@ -1,4 +1,4 @@
-#Design Coopyright by Anuradha Perera
+#Design Copyright by Anuradha Perera
 #Recreated & Coded by Nilupul Sayuranga
 
 from turtle import *
